@@ -1,0 +1,12 @@
+{
+  "images": [
+    {
+      "filename": "hamburguesa_icono.png",
+      "idiom": "universal"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
+}
